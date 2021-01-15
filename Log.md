@@ -1,4 +1,6 @@
-# 100 Days Of Code - Log
+# Log - 100 Days Of Code with Python
+
+
 
 
 ## Day 1 | June 27, Monday
