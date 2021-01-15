@@ -23,3 +23,4 @@ Jaunary 15th, 2020.
 
 ## Contents
 * [Rules](Rules.md)
+* [Log](Log.md)
